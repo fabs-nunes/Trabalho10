@@ -8,4 +8,4 @@ git clone https://github.com/fabs-nunes/Trabalho10.git
 gcc TR3_538784.c -o TR3_538784
 
 # Execução
-./TR3_53884
+./TR3_538784
